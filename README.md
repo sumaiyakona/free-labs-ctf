@@ -1,4 +1,6 @@
 # free-labs-ctf
+![ctf](https://user-images.githubusercontent.com/31168741/201058853-18456669-7625-4601-bf34-71c5bdd6b20c.png)
+
 Free Labs to Train your Pentest/CTF, IT, Cyber Security, and Computer Science Skills.
 
 **Try Hack Me:** https://tryhackme.com<br>
